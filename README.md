@@ -5,4 +5,3 @@
 ## Components4U
 Your awesome components collection 🚀
 
-> Note: Re-uploaded to register as a separate contribution on GitHub.
